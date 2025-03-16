@@ -15,20 +15,20 @@ Clonar o repositório: Clone este repositório em seu ambiente Linux:
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone h[ttps://github.com/seuusuario/seurepositorio.git](https://github.com/wellingtonbarrosrosa/swaplinux/blob/main/scriptswap.sh)
 cd seurepositorio
 Dar permissões de execução ao script: O script precisa de permissões de execução. Altere as permissões com o seguinte comando:
 
 bash
 Copiar
 Editar
-chmod +x swap.sh
+chmod +x scriptswap.sh
 Executar o script: Execute o script com privilégios de root para garantir que ele possa realizar todas as operações necessárias:
 
 bash
 Copiar
 Editar
-sudo ./swap.sh
+sudo ./scriptswap.sh
 Personalização
 O tamanho do arquivo de swap pode ser alterado modificando a variável SWAP_SIZE_GB no início do script. O valor padrão é 2.5 GB.
 Exemplo de Saída
