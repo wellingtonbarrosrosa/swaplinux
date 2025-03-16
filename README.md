@@ -15,8 +15,8 @@ Clonar o repositório: Clone este repositório em seu ambiente Linux:
 bash
 Copiar
 Editar
-git clone h[ttps://github.com/seuusuario/seurepositorio.git](https://github.com/wellingtonbarrosrosa/swaplinux/blob/main/scriptswap.sh)
-cd seurepositorio
+git clone https://github.com/wellingtonbarrosrosa/swaplinux.git
+cd swaplinux
 Dar permissões de execução ao script: O script precisa de permissões de execução. Altere as permissões com o seguinte comando:
 
 bash
